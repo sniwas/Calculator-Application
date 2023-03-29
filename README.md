@@ -292,6 +292,7 @@ https://github.com/sniwaserode/Calculator-Application
 
 
 # MainActivity.java 
+
 package com.example.calculator;
 import android.app.Activity;
 import android.os.Bundle;

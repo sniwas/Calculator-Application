@@ -1,24 +1,21 @@
 # Calculator-Application
 
 Mobile Application Development
-Assignment – 2
-
-
-
-
+Assignment – 1
 
 Name : S.Niwas
+
 Register No : 20ITR079
+
 Class : 20IT06B
+
 Title: Calculator Application
+
 Course Code :  18ITT61
 
 
-
-
-
-
 Github Link : https://github.com/sniwaserode/Calculator-Application
+
 AIM:
 	To develop a calculator application that calculates basic addition, subtraction, multiplication, division and modulus operation.
 
@@ -288,6 +285,8 @@ Activity_main.xml
    </LinearLayout>
 
 </RelativeLayout>
+![image](https://user-images.githubusercontent.com/122344020/228677665-ae15fba8-b5e0-4440-83e2-9a1eb82468e5.png)
+
 
 MainActivity.java
 package com.example.calculator;

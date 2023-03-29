@@ -291,8 +291,7 @@ https://github.com/sniwaserode/Calculator-Application
 ![image](https://user-images.githubusercontent.com/122344020/228677950-7caf40c1-fd88-413e-8753-52e10ec35cd4.png)
 
 
-
-# MainActivity.java
+# MainActivity.java 
 package com.example.calculator;
 import android.app.Activity;
 import android.os.Bundle;

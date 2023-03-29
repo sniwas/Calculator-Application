@@ -14,13 +14,14 @@ Title: Calculator Application
 Course Code :  18ITT61
 
 
-Github Link : https://github.com/sniwaserode/Calculator-Application
+#Github Link :
+https://github.com/sniwaserode/Calculator-Application
 
-AIM:
+#AIM:
 	To develop a calculator application that calculates basic addition, subtraction, multiplication, division and modulus operation.
 
-CODE:
-Activity_main.xml
+#CODE:
+#Activity_main.xml
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -285,12 +286,14 @@ Activity_main.xml
    </LinearLayout>
 
 </RelativeLayout>
-![image](https://user-images.githubusercontent.com/122344020/228677665-ae15fba8-b5e0-4440-83e2-9a1eb82468e5.png)
+
+![image](https://user-images.githubusercontent.com/122344020/228677950-7caf40c1-fd88-413e-8753-52e10ec35cd4.png)
 
 
-MainActivity.java
+
+#MainActivity.java
+
 package com.example.calculator;
-
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
@@ -571,28 +574,40 @@ public class MainActivity extends Activity {
 
 
  
-Output:
-1. On Launch 
+#Output:
+1. On Launch
+ 
 ![image](https://user-images.githubusercontent.com/122344020/228675712-b6186ca1-0402-41da-890b-22b50d8d4d4e.png)
 
+
 2.  On clicking number buttons
+
  ![image](https://user-images.githubusercontent.com/122344020/228675876-5d0abbd6-2fd1-4162-92d0-7a9027e6b76f.png)
  
 3. On clicking divide button
+
 ![image](https://user-images.githubusercontent.com/122344020/228675858-c3b0b867-318e-4a59-959e-ac2fb0c57377.png)
 
+
 4. On clicking number buttons after division button
+
  ![image](https://user-images.githubusercontent.com/122344020/228676126-db129390-859f-424e-ab6e-6d1e66c8bacd.png)
+ 
 
 5. After clicking equals button
+
 ![image](https://user-images.githubusercontent.com/122344020/228676180-d1cda030-bc85-4497-af13-f2e9d216df0f.png)
 
+
 6. After calculating 3 values 
-  ![image](https://user-images.githubusercontent.com/122344020/228676219-894f68ea-16b1-4184-b342-b22b4fbc620d.png)
+
+![image](https://user-images.githubusercontent.com/122344020/228676219-894f68ea-16b1-4184-b342-b22b4fbc620d.png)
+
 
 7. On pressing ‘C’ button 
+
 ![image](https://user-images.githubusercontent.com/122344020/228676344-46106882-da45-4f21-9145-7ac493e334ef.png)
   
  
-Result:
+#Result:
 Thus, the calculator app has been build and executed successfully. 

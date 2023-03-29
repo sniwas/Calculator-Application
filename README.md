@@ -14,14 +14,15 @@ Title: Calculator Application
 Course Code :  18ITT61
 
 
-#Github Link :
+# Github Link :
 https://github.com/sniwaserode/Calculator-Application
 
-#AIM:
+# AIM:
 	To develop a calculator application that calculates basic addition, subtraction, multiplication, division and modulus operation.
 
-#CODE:
-#Activity_main.xml
+# CODE:
+
+# Activity_main.xml
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -291,7 +292,7 @@ https://github.com/sniwaserode/Calculator-Application
 
 
 
-#MainActivity.java
+# MainActivity.java
 
 package com.example.calculator;
 import android.app.Activity;
@@ -574,7 +575,7 @@ public class MainActivity extends Activity {
 
 
  
-#Output:
+# Output:
 1. On Launch
  
 ![image](https://user-images.githubusercontent.com/122344020/228675712-b6186ca1-0402-41da-890b-22b50d8d4d4e.png)
@@ -609,5 +610,5 @@ public class MainActivity extends Activity {
 ![image](https://user-images.githubusercontent.com/122344020/228676344-46106882-da45-4f21-9145-7ac493e334ef.png)
   
  
-#Result:
+# Result:
 Thus, the calculator app has been build and executed successfully. 

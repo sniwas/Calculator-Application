@@ -1,18 +1,5 @@
 # Calculator-Application
 
-Mobile Application Development
-Assignment – 1
-
-Name : S.Niwas
-
-Register No : 20ITR079
-
-Class : 20IT06B
-
-Title: Calculator Application
-
-Course Code :  18ITT61
-
 
 # Github Link :
 https://github.com/sniwaserode/Calculator-Application
